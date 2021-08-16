@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jjones42\\source\\repos\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj": {}
+    "C:\\DevBuild\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jjones42\\source\\repos\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj": {
+    "C:\\DevBuild\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jjones42\\source\\repos\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj",
+        "projectUniqueName": "C:\\DevBuild\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj",
         "projectName": "Lab6_1_PrimeNumbers",
-        "projectPath": "C:\\Users\\jjones42\\source\\repos\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj",
+        "projectPath": "C:\\DevBuild\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj",
         "packagesPath": "C:\\Users\\jjones42\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jjones42\\source\\repos\\Week06\\Lab6_1_PrimeNumbers\\obj\\",
+        "outputPath": "C:\\DevBuild\\Week06\\Lab6_1_PrimeNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

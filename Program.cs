@@ -29,7 +29,7 @@ namespace Lab6_1_PrimeNumbers
             }
         }
     }
-    public class Program
+    class Program
     {
         static  bool KeepGoing()
         {
@@ -60,7 +60,7 @@ namespace Lab6_1_PrimeNumbers
             {
                 Console.Write("\nWhich prime do you want to find? ");
                 int n = int.Parse(Console.ReadLine());
-                if (n == 11 || n == 12 || n == 13) Console.WriteLine($"\nThe {n}th prime is {PrimeNumbers.GetNthPrime(n)}.");
+                if (n % 100 == 11 || n % 100 == 12 || n % 100 == 13) Console.WriteLine($"\nThe {n}th prime is {PrimeNumbers.GetNthPrime(n)}.");
                 else switch (n % 10)
                 {
                     case 1:

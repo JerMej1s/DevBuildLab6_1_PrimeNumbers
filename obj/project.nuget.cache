@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uQACBmlLvpqvh4HIXrgQKC90PX4B4f68AIzCUOEqiKtAFGnnNWAHvTyFmDj67Us1YJxRfaqFC2g+4mwzEvsgMw==",
+  "dgSpecHash": "LCq/khhNFqZMWzudEla+8NQlpk8ggcBQ3uvmizR7ooH9ubY7IJP5W3sXan8YtzL8ukMqAzLNAUk6LCIApVIBrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jjones42\\source\\repos\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj",
+  "projectFilePath": "C:\\DevBuild\\Week06\\Lab6_1_PrimeNumbers\\Lab6_1_PrimeNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
